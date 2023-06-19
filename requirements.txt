@@ -1,0 +1,8 @@
+seaborn
+emoji==1.6.3
+wordcloud
+matplotlib
+urlextract
+pandas
+regex
+streamlit
